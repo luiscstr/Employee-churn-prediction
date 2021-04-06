@@ -4,4 +4,3 @@ Hiring and retaining employees require capital, time and skills. In the US, firm
 
 Understanding the reasons and anticipating when an employee is most likely to leave could lead to take preventive actions and planning new hirings in advance, reducing the costs above mentioned. To do so, HR has collected extensive historical data on their employees, such as job satisfaction, performance rating, work like balance... HR is also providing a variable (attrition) that indicates if the employee left the company or not.
 
-We are provided with the labels, so we are facing a supervised learning problem, and since we need to predict two categories (attrition yer or not), we are facing a supervised learning binary classification problem.
