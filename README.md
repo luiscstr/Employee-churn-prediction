@@ -4,7 +4,6 @@ Hiring and retaining employees require capital, time and skills. In the US, firm
 
 Understanding the reasons and anticipating when an employee is most likely to leave could lead to take preventive actions and planning new hirings in advance, reducing the costs above mentioned. To do so, HR has collected extensive historical data on their employees, such as age, gender, job satisfaction, environment satisfaction, education field, job role, income, overtime, percentage salary hike, tenure, training time, years in current role, relationship status, and more.HR is also providing a variable (attrition) that indicates if the employee left the company or not.
 
-
 ## 2. SUMMARY OF THE PROJECT
 
 Exploratory Data Analysis to find differences between the group of employees that stayed and the ones that left and to identify the variables that most significantly impact the attrition.
@@ -14,16 +13,13 @@ Development of three binary classifiers (linear regressor classifier, random for
 ## 3. DATA
 Original data was published in IBM but was removed. The dataset is still available in [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-## 4. TECHNIQUES
-
-
-## 5. FOLDER STRUCTURE
+## 4. FOLDER STRUCTURE
 - Data
   -  \raw: contains the original data set.
   -  \processed: contains cleaned and preprocessed files
 - src: contains the notebooks
 
-## 6. NOTEBOOK STRUCTURE
+## 5. NOTEBOOK STRUCTURE
 The repository contains a total of six (6) notebooks:
 - *1. Data description and initial intuitions*: structure and characteristics of the data set (rows, columns, missing values...), field description and initial suposition/guesses prior to the analysis
 - *2. EDA*: exploratory data analysis, subdivided in categorical variable and numerical variable.
