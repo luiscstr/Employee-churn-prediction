@@ -7,4 +7,7 @@ Understanding the reasons and anticipating when an employee is most likely to le
 ## 2. DATA
 Original data was published in IBM but was removed. The dataset is still available in [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-## 3. 
+## 3. Folder structure
+- Data
+  -  \raw: contains the original data set.
+  -  \processed: contains cleaned and preprocessed files
